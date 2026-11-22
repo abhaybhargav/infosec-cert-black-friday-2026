@@ -508,3 +508,16 @@ deals:
     expected: true
     notes: "Only membership codes from aggregator sites found (expired Nov 12–13)."
     last_checked: 2026-11-16
+
+  - vendor: Invoke RE
+    category: training
+    offer: Reverse engineering and malware analysis training courses
+    discount: "20% off all courses"
+    certs: [IMBT, AMBT]
+    url: https://training.invokere.com/pricing
+    source: vendor
+    source_url: https://training.invokere.com/pricing
+    starts: 2026-11-20
+    ends: 2026-12-01
+    last_year: "20% off Premium training bundle"
+    last_checked: 2026-11-16

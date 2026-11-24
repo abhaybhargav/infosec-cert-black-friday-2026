@@ -451,6 +451,19 @@
     "status": "✅ Live"
   },
   {
+    "vendor": "ByteBlind",
+    "category": "training",
+    "offer": "Android app pentesting course — 55 lessons, vulnerable APKs, lifetime access",
+    "discount": "40% off — $149 → $89.40",
+    "code": "BYTENOV40",
+    "ends": "2026-11-30",
+    "url": "https://training.byteblind.com/products/courses/android-app-hacking",
+    "source": "vendor",
+    "notes": "7-day refund guarantee. Submitted by the course author.",
+    "last_checked": "2026-11-23",
+    "status": "✅ Live"
+  },
+  {
     "vendor": "GenAI Security Lab",
     "category": "labs",
     "offer": "Hands-on AI security labs (prompt injection, RAG, agents, MCP) — yearly plan and 4-Month Pass",

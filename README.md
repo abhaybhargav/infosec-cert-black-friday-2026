@@ -20,7 +20,7 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**29 live** · **1 upcoming** · **15 not announced yet** · 0 expired — _statuses auto-refreshed Nov 24, 2026_
+**30 live** · **1 upcoming** · **15 not announced yet** · 0 expired — _statuses auto-refreshed Nov 24, 2026_
 
 ### ⏰ Ending next
 
@@ -56,6 +56,7 @@
 | ✅ Live | **[AppSec.training](https://appsec.training)** | Application security, DevSecOps and secure SDLC training | 50% off | `blackfriday` | Dec 31, 2026 | ✔️ vendor |
 | ✅ Live | **[Blu Raven Academy](https://academy.bluraven.io/black-friday-2026)** | KQL, threat hunting & detection engineering courses<br><sub>ℹ️ Vendor shows a countdown but no end date (community lists say Nov 30).</sub> | Up to 40% off (most courses 40%, Advanced Threat Hunting 25%) | `BFCM25` | — | ✔️ vendor |
 | ✅ Live | **[Blue Cape Security](https://bluecapesecurity.com/training-tracks/)** | HERO incident-response training bundle ("Black Friday price lock")<br><sub>ℹ️ Price returns to $2,197 on Dec 1. Analyst II track is also $997 until Nov 30 ($1,197 from Dec 1).</sub> | $700 off — $2,197 → $1,497 | _auto_ | Nov 30, 2026 | ✔️ vendor |
+| ✅ Live | **[ByteBlind](https://training.byteblind.com/products/courses/android-app-hacking)** | Android app pentesting course — 55 lessons, vulnerable APKs, lifetime access<br><sub>ℹ️ 7-day refund guarantee. Submitted by the course author.</sub> | 40% off — $149 → $89.40 | `BYTENOV40` | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[Hexordia](https://learn.hexordia.com/s/store)** | Hexordia classes (on-demand and virtual live) and class vouchers<br><sub>HMFA, HDSC, HEWT, HIOT</sub><br><sub>ℹ️ Ends 11:59 PM ET on Dec 7.</sub> | 35% off | `26BF35` | Dec 07, 2026 | ✔️ vendor |
 | ✅ Live | **[Invictus Incident Response](https://www.invictus-ir.com/academy/plans)** | Invictus Academy cloud incident response training, Standard (labs) and Advanced (labs plus a course) plans<br><sub>ℹ️ First invoice only: first month on monthly plans, first year on yearly plans. Standard and Advanced plans only, Enterprise excluded. Ends 11:59 PM ET on Dec 7.</sub> | 20% off your first invoice | `BLACKFRIDAY26` | Dec 07, 2026 | ✔️ vendor |
 | ✅ Live | **[Just Hacking Training](https://www.justhacking.com/deals/)** | Everything — courses, paths, CTFs | 25% off | `BFF25` | Nov 30, 2026 | ✔️ vendor |

@@ -168,6 +168,18 @@ deals:
     source: vendor
     notes: "Formerly WiFiChallenge Academy. Code auto-applied at checkout. Submitted by a course instructor."
     last_checked: 2026-11-19
+
+  - vendor: GIAC
+    category: certification
+    offer: Applied Knowledge certifications, certification attempt extensions, practice exams and demo questions
+    discount: "30% off"
+    code: 30Cyber26
+    starts: 2026-11-24
+    ends: 2026-12-01
+    url: https://www.giac.org/#specials
+    source: vendor
+    notes: "Announced in the GIAC newsletter and on giac.org. Buy from your GIAC account and enter the code at checkout; it can be used multiple times. Not valid on prior purchases or voucher purchases."
+    last_checked: 2026-11-22
     
   # ───────────────────────────── Training & courses ─────────────────────────────
 
@@ -433,7 +445,7 @@ deals:
     url: https://www.sans.org/specials/
     source: third-party
     expected: true
-    notes: "SANS rarely runs Black Friday sales. Its Specials page lists region-specific EarlyBird promo codes for 4–6 day courses paid 30+ days ahead."
+    notes: "SANS rarely runs Black Friday sales. Its Specials page lists region-specific EarlyBird promo codes for 4–6 day courses paid 30+ days ahead. GIAC's own 30% deal on select products is listed under Certifications."
     last_checked: 2026-11-16
 
   - vendor: LetsDefend

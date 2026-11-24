@@ -181,6 +181,20 @@ deals:
     notes: "Announced in the GIAC newsletter and on giac.org. Buy from your GIAC account and enter the code at checkout; it can be used multiple times. Not valid on prior purchases or voucher purchases."
     last_checked: 2026-11-22
     
+  - vendor: TCM Security
+    category: certification
+    offer: All 13 certifications, learning paths (3 stacking certs + extra courses), instructor-led live training and Academy memberships
+    certs: [PJPT, PNPT, PORP, PWPA, PWPP, PWPE, PAPA, PHDA, PSAA, PSAP, PMPA, PIPA, PMRP]
+    discount: "20% off certs, learning paths & live training · 50% off first Academy payment"
+    code: ""
+    starts: 2026-11-16
+    ends: 2026-11-30
+    url: https://tcm-sec.com/black-friday-deals/
+    source: vendor
+    last_year: "20% off all certifications & live training (no code), 50% off first Academy payment, up to $1,000 off cert bundles (ended Dec 1, 2025)"
+    notes: "Auto-applied. Ends Nov 30, 11:59 PM ET. Academy discount is first payment only; renewals bill at regular price. Learning paths include a monthly mentorship group. Can't be combined with other offers. Submitted by the vendor."
+    last_checked: 2026-11-23
+
   # ───────────────────────────── Training & courses ─────────────────────────────
 
   - vendor: AppSec.training
@@ -384,17 +398,6 @@ deals:
     source: third-party
     expected: true
     last_year: "40% off annual subscription with code BLACKFRIDAY40 (ended Nov 28, 2025)"
-    last_checked: 2026-11-16
-
-  - vendor: TCM Security
-    category: certification
-    offer: Certifications, live training and Academy subscriptions
-    certs: [PNPT, PJPT, PMPA, PSAA, PWPA, PMRP]
-    discount: "TBA"
-    url: https://certifications.tcm-sec.com/
-    source: third-party
-    expected: true
-    last_year: "20% off all certifications & live training (no code), 50% off first Academy payment, up to $1,000 off cert bundles (ended Dec 1, 2025)"
     last_checked: 2026-11-16
 
   - vendor: CompTIA

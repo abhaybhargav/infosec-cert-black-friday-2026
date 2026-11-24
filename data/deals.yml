@@ -21,6 +21,8 @@
 #   notes         (optional) Exclusions, conflicts between sources, gotchas
 #   featured      (optional) true = pin to the ⭐ Featured block at the top of the README (maintainer only)
 #   featured_note (optional) One-line reason it's featured
+#   logo          (optional) Path to a logo image in assets/logos/ (shown in the Featured block)
+#   logo_dark     (optional) Logo variant for GitHub dark mode (needs logo too)
 #   last_checked  (required) YYYY-MM-DD
 
 deals:
@@ -208,20 +210,6 @@ deals:
     source: vendor
     last_checked: 2026-11-24
 
-  - vendor: GenAI Security Lab
-    category: certification
-    offer: GenAI security certifications (exam + bundled lab access) and 200+ hands-on labs on the OWASP LLM, Agentic & MCP Top 10s
-    certs: [GSCP, GSCE]
-    discount: "Launch price — GSCP $249 → $199, GSCE $499 → $399 · 4-Month Pass $116 → $99"
-    code: ""
-    ends: 2026-12-31
-    url: https://genaisecuritylab.com/pricing
-    source: vendor
-    featured: true
-    featured_note: "Fresh AI/LLM security certs at launch price until Dec 31. Annual members get an extra 25% off certs (GSCP $149.25, GSCE $299.25)."
-    notes: "Launch pricing, not a Black Friday-branded sale. No code needed. GSCP includes 1 month of labs, GSCE 3 months; one free retake each. Students (.edu / .ac.*) get 40% off (yearly $136.80, 4-Month Pass $59.40, GSCP $119.40, GSCE $239.40). Discounts don't stack: you get the larger one. 7-day money-back guarantee."
-    last_checked: 2026-11-24
-
   # ───────────────────────────── Training & courses ─────────────────────────────
 
   - vendor: AppSec.training
@@ -391,6 +379,21 @@ deals:
     last_checked: 2026-11-24
 
   # ─────────────────────────────── Labs & platforms ───────────────────────────────
+
+  - vendor: GenAI Security Lab
+    category: labs
+    offer: 200+ hands-on AI security labs against deliberately vulnerable LLM, RAG, agent and MCP apps
+    discount: "40% off the 4-Month Pass and the first year of the yearly plan"
+    code: ""
+    ends: 2026-11-30
+    url: https://genaisecuritylab.com/pricing
+    source: vendor
+    featured: true
+    featured_note: "Annual members get an extra 25% off certs (GSCP $149.25, GSCE $299.25)."
+    logo: assets/logos/genai-security-lab.png
+    logo_dark: assets/logos/genai-security-lab-dark.png
+    notes: "Auto-applied, ends Nov 30. Discounts don't stack: you get the larger one. 7-day money-back guarantee."
+    last_checked: 2026-11-24
 
   - vendor: LabEx
     category: labs

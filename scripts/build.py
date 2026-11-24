@@ -94,6 +94,10 @@ def validate(deals: list[dict]) -> list[str]:
             errors.append(f"{tag}: url must be https")
         if any(h in url.lower() for h in AFFILIATE_HINTS):
             errors.append(f"{tag}: url looks like an affiliate/tracking link — use the plain vendor URL")
+        if "featured" in d and not isinstance(d["featured"], bool):
+            errors.append(f"{tag}: 'featured' must be true or false")
+        if d.get("featured") and d.get("expected"):
+            errors.append(f"{tag}: watchlist (expected) deals can't be featured")
         key = (d.get("vendor"), d.get("offer"))
         if key in seen:
             errors.append(f"{tag}: duplicate vendor+offer")
@@ -114,6 +118,25 @@ def render(deals: list[dict], today: dt.date) -> str:
         f"**{len(live)} live** · **{len(soon)} upcoming** · **{len(watch)} not announced yet** · "
         f"{len(expired)} expired — _statuses auto-refreshed {today:%b %d, %Y}_\n"
     )
+
+    featured = sorted(
+        (r for r in rows if r[1].get("featured") and r[0][0] in ("0", "1", "2")),
+        key=lambda r: (r[0][0], r[1]["vendor"].lower()),
+    )
+    if featured:
+        out.append("## ⭐ Featured deals\n")
+        out.append("> Hand-picked by the maintainer: the best value right now.\n")
+        out.append("| Vendor | Deal | Code | Ends | Status |")
+        out.append("|---|---|---|---|---|")
+        for (_, label), d in featured:
+            certs = f"<br><sub>{', '.join(d['certs'])}</sub>" if d.get("certs") else ""
+            note = f"<br><sub>⭐ {cell(d['featured_note'])}</sub>" if d.get("featured_note") else ""
+            code = f"`{cell(d['code'])}`" if d.get("code") else "_auto_"
+            out.append(
+                f"| **[{cell(d['vendor'])}]({d['url']})**{certs} | {cell(d['discount'])}{note} "
+                f"| {code} | {fmt_date(d.get('ends'))} | {label} |"
+            )
+        out.append("")
 
     ending = sorted(
         (r for r in live if as_date(r[1].get("ends"))),
@@ -179,7 +202,7 @@ def export(deals: list[dict], today: dt.date) -> None:
         clean.append(row)
     (ROOT / "data" / "deals.json").write_text(json.dumps(clean, indent=2, ensure_ascii=False) + "\n")
     fields = ["status", "vendor", "category", "offer", "certs", "discount", "code",
-              "starts", "ends", "url", "source", "source_url", "last_year", "notes", "last_checked"]
+              "starts", "ends", "url", "source", "source_url", "featured", "featured_note", "last_year", "notes", "last_checked"]
     with open(ROOT / "data" / "deals.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=fields, extrasaction="ignore")
         w.writeheader()

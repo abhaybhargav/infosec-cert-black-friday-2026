@@ -20,7 +20,7 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**30 live** · **1 upcoming** · **15 not announced yet** · 0 expired — _statuses auto-refreshed Nov 24, 2026_
+**31 live** · **1 upcoming** · **15 not announced yet** · 0 expired — _statuses auto-refreshed Nov 24, 2026_
 
 ### ⏰ Ending next
 
@@ -59,6 +59,7 @@
 | ✅ Live | **[ByteBlind](https://training.byteblind.com/products/courses/android-app-hacking)** | Android app pentesting course — 55 lessons, vulnerable APKs, lifetime access<br><sub>ℹ️ 7-day refund guarantee. Submitted by the course author.</sub> | 40% off — $149 → $89.40 | `BYTENOV40` | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[Hexordia](https://learn.hexordia.com/s/store)** | Hexordia classes (on-demand and virtual live) and class vouchers<br><sub>HMFA, HDSC, HEWT, HIOT</sub><br><sub>ℹ️ Ends 11:59 PM ET on Dec 7.</sub> | 35% off | `26BF35` | Dec 07, 2026 | ✔️ vendor |
 | ✅ Live | **[Invictus Incident Response](https://www.invictus-ir.com/academy/plans)** | Invictus Academy cloud incident response training, Standard (labs) and Advanced (labs plus a course) plans<br><sub>ℹ️ First invoice only: first month on monthly plans, first year on yearly plans. Standard and Advanced plans only, Enterprise excluded. Ends 11:59 PM ET on Dec 7.</sub> | 20% off your first invoice | `BLACKFRIDAY26` | Dec 07, 2026 | ✔️ vendor |
+| ✅ Live | **[Invoke RE](https://training.invokere.com/pricing)** | Reverse engineering and malware analysis training courses<br><sub>IMBT, AMBT</sub> | 20% off all courses | _auto_ | Dec 01, 2026 | ✔️ vendor |
 | ✅ Live | **[Just Hacking Training](https://www.justhacking.com/deals/)** | Everything — courses, paths, CTFs | 25% off | `BFF25` | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[MalDev Academy](https://maldevacademy.com/)** | Malware development courses<br><sub>ℹ️ Sale is live on maldevacademy.com. The code and end date come from a community list (the site blocks automated checks) — confirm at checkout.</sub> | 25% off | `BLKFRIDAY25` | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[OnlySecurity](https://onlysecurity.com/black-friday/)** | Paid courses, first month/year of Plus or Max, All Access pass<br><sub>ℹ️ Auto-applied. Nov 23 00:00 – Nov 30 23:59 UK time. Courses already on sale keep their sale price. Excludes bundles, team plans, private training, trainer passes, plan changes, renewals.</sub> | 15% off | _auto_ | Nov 30, 2026 | ✔️ vendor |

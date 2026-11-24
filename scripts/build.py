@@ -66,6 +66,17 @@ def cell(text) -> str:
     return str(text or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
+def logo_html(deal: dict, width: int = 140) -> str:
+    """Linked vendor logo for the Featured table; swaps to logo_dark in GitHub dark mode."""
+    if not deal.get("logo"):
+        return ""
+    alt = cell(deal["vendor"]).replace('"', "&quot;")
+    img = f'<img src="{deal["logo"]}" alt="{alt}" width="{width}">'
+    if deal.get("logo_dark"):
+        img = f'<picture><source media="(prefers-color-scheme: dark)" srcset="{deal["logo_dark"]}">{img}</picture>'
+    return f'<a href="{deal["url"]}">{img}</a><br>'
+
+
 # ───────────────────────────── validation ─────────────────────────────
 def validate(deals: list[dict]) -> list[str]:
     errors, seen = [], set()
@@ -98,6 +109,11 @@ def validate(deals: list[dict]) -> list[str]:
             errors.append(f"{tag}: 'featured' must be true or false")
         if d.get("featured") and d.get("expected"):
             errors.append(f"{tag}: watchlist (expected) deals can't be featured")
+        for key in ("logo", "logo_dark"):
+            if d.get(key) and not (ROOT / str(d[key])).is_file():
+                errors.append(f"{tag}: '{key}' file not found: {d[key]}")
+        if d.get("logo_dark") and not d.get("logo"):
+            errors.append(f"{tag}: 'logo_dark' needs 'logo' too")
         key = (d.get("vendor"), d.get("offer"))
         if key in seen:
             errors.append(f"{tag}: duplicate vendor+offer")
@@ -133,7 +149,7 @@ def render(deals: list[dict], today: dt.date) -> str:
             note = f"<br><sub>⭐ {cell(d['featured_note'])}</sub>" if d.get("featured_note") else ""
             code = f"`{cell(d['code'])}`" if d.get("code") else "_auto_"
             out.append(
-                f"| **[{cell(d['vendor'])}]({d['url']})**{certs} | {cell(d['discount'])}{note} "
+                f"| {logo_html(d)}**[{cell(d['vendor'])}]({d['url']})**{certs} | {cell(d['discount'])}{note} "
                 f"| {code} | {fmt_date(d.get('ends'))} | {label} |"
             )
         out.append("")
@@ -202,7 +218,7 @@ def export(deals: list[dict], today: dt.date) -> None:
         clean.append(row)
     (ROOT / "data" / "deals.json").write_text(json.dumps(clean, indent=2, ensure_ascii=False) + "\n")
     fields = ["status", "vendor", "category", "offer", "certs", "discount", "code",
-              "starts", "ends", "url", "source", "source_url", "featured", "featured_note", "last_year", "notes", "last_checked"]
+              "starts", "ends", "url", "source", "source_url", "featured", "featured_note", "logo", "logo_dark", "last_year", "notes", "last_checked"]
     with open(ROOT / "data" / "deals.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=fields, extrasaction="ignore")
         w.writeheader()

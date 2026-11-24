@@ -1,5 +1,23 @@
 [
   {
+    "vendor": "CloudBreach",
+    "category": "certification",
+    "offer": "Advanced offensive Azure & AWS Security Trainings and Certifications",
+    "certs": [
+      "OASP",
+      "OAWSP",
+      "OASE"
+    ],
+    "discount": "30% off",
+    "code": "BlackFriday26",
+    "ends": "2026-12-07",
+    "url": "https://cloudbreach.io/blackfriday",
+    "source": "vendor",
+    "last_year": "25% off",
+    "last_checked": "2026-11-21",
+    "status": "✅ Live"
+  },
+  {
     "vendor": "OffSec",
     "category": "certification",
     "offer": "Learn One annual subscription (one 200/300-level course + labs + 2 exam attempts)",
@@ -208,6 +226,20 @@
     "source": "vendor",
     "notes": "Formerly WiFiChallenge Academy. Code auto-applied at checkout. Submitted by a course instructor.",
     "last_checked": "2026-11-19",
+    "status": "✅ Live"
+  },
+  {
+    "vendor": "GIAC",
+    "category": "certification",
+    "offer": "Applied Knowledge certifications, certification attempt extensions, practice exams and demo questions",
+    "discount": "30% off",
+    "code": "30Cyber26",
+    "starts": "2026-11-24",
+    "ends": "2026-12-01",
+    "url": "https://www.giac.org/#specials",
+    "source": "vendor",
+    "notes": "Announced in the GIAC newsletter and on giac.org. Buy from your GIAC account and enter the code at checkout; it can be used multiple times. Not valid on prior purchases or voucher purchases.",
+    "last_checked": "2026-11-22",
     "status": "✅ Live"
   },
   {
@@ -564,7 +596,7 @@
     "url": "https://www.sans.org/specials/",
     "source": "third-party",
     "expected": true,
-    "notes": "SANS rarely runs Black Friday sales. Its Specials page lists region-specific EarlyBird promo codes for 4–6 day courses paid 30+ days ahead.",
+    "notes": "SANS rarely runs Black Friday sales. Its Specials page lists region-specific EarlyBird promo codes for 4–6 day courses paid 30+ days ahead. GIAC's own 30% deal on select products is listed under Certifications.",
     "last_checked": "2026-11-16",
     "status": "👀 Not announced"
   },
@@ -610,16 +642,25 @@
     "status": "👀 Not announced"
   },
   {
-    "vendor": "8kSec",
+    "vendor": "8kSec Academy",
     "category": "training",
-    "offer": "Mobile, AI and ARM exploitation courses",
-    "discount": "TBA",
+    "certs": [
+      "CAISR",
+      "CMSE",
+      "OMSE",
+      "CISR",
+      "CASR"
+    ],
+    "offer": "On-demand mobile and AI security training (five certification tracks) with hands-on labs",
+    "discount": "15% off all on-demand courses",
+    "code": "BLACKFRIDAY15",
+    "starts": "2026-11-20",
+    "ends": "2026-12-04",
     "url": "https://academy.8ksec.io/",
-    "source": "third-party",
-    "expected": true,
+    "source": "vendor",
     "last_year": "15% off all courses with code blackfriday15 (ended Dec 10, 2025)",
-    "last_checked": "2026-11-16",
-    "status": "👀 Not announced"
+    "last_checked": "2026-11-23",
+    "status": "✅ Live"
   },
   {
     "vendor": "CyberDefenders",

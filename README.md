@@ -20,7 +20,7 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**25 live** · **1 upcoming** · **17 not announced yet** · 0 expired — _statuses auto-refreshed Nov 24, 2026_
+**28 live** · **1 upcoming** · **16 not announced yet** · 0 expired — _statuses auto-refreshed Nov 24, 2026_
 
 ### ⏰ Ending next
 
@@ -34,7 +34,9 @@
 
 | Status | Vendor | Offer | Discount | Code | Ends | Verified |
 |---|---|---|---|---|---|---|
+| ✅ Live | **[CloudBreach](https://cloudbreach.io/blackfriday)** | Advanced offensive Azure & AWS Security Trainings and Certifications<br><sub>OASP, OAWSP, OASE</sub> | 30% off | `BlackFriday26` | Dec 07, 2026 | ✔️ vendor |
 | ✅ Live | **[CyberWarFare Labs](https://cyberwarfare.live/bundles)** | 40+ red/blue/cloud/AI-security certification courses + themed bundles<br><sub>CRTA, AI-RTA, MCRTA, CRTS v2, CARTS, AzRTS, GCRTS, CCDA, CTIA</sub><br><sub>ℹ️ No code needed for bundles/courses. Extra 10% off carts ≥ $99 and 20% off ≥ $149 (code required). Premium Membership $1,999 → $1,499, All Access $1,799 → $999 (code given at checkout). End date not published.</sub> | Up to 91% off — most courses $9, cloud red team $49, bundles $29–$149 | _auto_ | — | ✔️ vendor |
+| ✅ Live | **[GIAC](https://www.giac.org/#specials)** | Applied Knowledge certifications, certification attempt extensions, practice exams and demo questions<br><sub>ℹ️ Announced in the GIAC newsletter and on giac.org. Buy from your GIAC account and enter the code at checkout; it can be used multiple times. Not valid on prior purchases or voucher purchases.</sub> | 30% off | `30Cyber26` | Dec 01, 2026 | ✔️ vendor |
 | ✅ Live | **[HackTricks Training](https://hacktricks-training.com/bundles/)** | Cloud red team course bundles (AWS / GCP / Azure)<br><sub>ARTE, ARTA, GRTE, GRTA, AzRTE, AzRTA</sub><br><sub>ℹ️ Prices in EUR. End date not published. Community lists also report 20% off single courses and 15% off labs & exams — not shown on the vendor site.</sub> | Extra 10% off bundles on top of the 25% bundle discount (e.g. €4,396 → €2,857) | _auto_ | — | ✔️ vendor |
 | ✅ Live | **[Modern Security](https://www.modernsecurity.io/courses/ai-security-certification)** | AI Security Certification<br><sub>ℹ️ Reported by a sponsored blog listing; not shown on the vendor's course page. Unconfirmed — check at checkout.</sub> | 20% off | `msec-bf20` | — | ⚠️ unconfirmed |
 | ✅ Live | **[OffSec](https://www.offsec.com/products/learn-one/)** | Learn One annual subscription (one 200/300-level course + labs + 2 exam attempts)<br><sub>OSCP+, OSEP, OSWE, OSED, OSWA, OSDA, OSTH, OSIR</sub><br><sub>ℹ️ "Level 20" anniversary promo, auto-applied. Ends Jan 4, 23:59 EST. New and existing individual learners only (not org admins). Learn One only — Course + Cert Bundle ($1,749) and CyberCore ($899) are full price.</sub> | $550 off (20%) — $2,749 → $2,199/year | _auto_ | Jan 04, 2027 | ✔️ vendor |
@@ -49,6 +51,7 @@
 
 | Status | Vendor | Offer | Discount | Code | Ends | Verified |
 |---|---|---|---|---|---|---|
+| ✅ Live | **[8kSec Academy](https://academy.8ksec.io/)** | On-demand mobile and AI security training (five certification tracks) with hands-on labs<br><sub>CAISR, CMSE, OMSE, CISR, CASR</sub> | 15% off all on-demand courses | `BLACKFRIDAY15` | Dec 04, 2026 | ✔️ vendor |
 | ✅ Live | **[AppSec.training](https://appsec.training)** | Application security, DevSecOps and secure SDLC training | 50% off | `blackfriday` | Dec 31, 2026 | ✔️ vendor |
 | ✅ Live | **[Blu Raven Academy](https://academy.bluraven.io/black-friday-2026)** | KQL, threat hunting & detection engineering courses<br><sub>ℹ️ Vendor shows a countdown but no end date (community lists say Nov 30).</sub> | Up to 40% off (most courses 40%, Advanced Threat Hunting 25%) | `BFCM25` | — | ✔️ vendor |
 | ✅ Live | **[Blue Cape Security](https://bluecapesecurity.com/training-tracks/)** | HERO incident-response training bundle ("Black Friday price lock")<br><sub>ℹ️ Price returns to $2,197 on Dec 1. Analyst II track is also $997 until Nov 30 ($1,197 from Dec 1).</sub> | $700 off — $2,197 → $1,497 | _auto_ | Nov 30, 2026 | ✔️ vendor |
@@ -77,7 +80,6 @@ These vendors usually run a Black Friday promo but haven't announced 2026 terms.
 
 | Vendor | Certs | What happened in 2025 | Notes |
 |---|---|---|---|
-| **[8kSec](https://academy.8ksec.io/)** | — | 15% off all courses with code blackfriday15 (ended Dec 10, 2025) | — |
 | **[Altered Security](https://www.alteredsecurity.com/)** | CRTP, CRTE, CARTP, CARTE, CRTM | 20–25% off courses & bootcamps, 25% off multi-course purchases, auto-applied (Nov 17 – Dec 17, 2025) | — |
 | **[Centri (formerly Security Blue Team)](https://www.centri.org/)** | BTL1, BTL2 | Deal teased but no details published | Security Blue Team rebranded as Centri — securityblue.team now redirects to centri.org. |
 | **[CompTIA](https://www.comptia.org/en-us/certifications/)** | Security+, CySA+, PenTest+, SecurityX, Network+ | — | — |
@@ -89,7 +91,7 @@ These vendors usually run a Black Friday promo but haven't announced 2026 terms.
 | **[ISACA](https://www.isaca.org/)** | CISM, CISA, CRISC, CGEIT | — | Only membership codes from aggregator sites found (expired Nov 12–13). |
 | **[ISC2](https://www.isc2.org/)** | CISSP, CCSP, SSCP, CC | — | Only coupon-aggregator codes found so far (expired Nov 12). |
 | **[LetsDefend](https://app.letsdefend.io/pricing)** | — | 50% off annual plans with code BLCKFRDY, extra 50% for .edu emails (ended Dec 2, 2025) | — |
-| **[SANS / GIAC](https://www.sans.org/specials/)** | GSEC, GCIH, GPEN, GCFA | — | SANS rarely runs Black Friday sales. Its Specials page lists region-specific EarlyBird promo codes for 4–6 day courses paid 30+ days ahead. |
+| **[SANS / GIAC](https://www.sans.org/specials/)** | GSEC, GCIH, GPEN, GCFA | — | SANS rarely runs Black Friday sales. Its Specials page lists region-specific EarlyBird promo codes for 4–6 day courses paid 30+ days ahead. GIAC's own 30% deal on select products is listed under Certifications. |
 | **[SEKTOR7](https://institute.sektor7.net/)** | — | 25% off red team courses (code BF25) | — |
 | **[TCM Security](https://certifications.tcm-sec.com/)** | PNPT, PJPT, PMPA, PSAA, PWPA, PMRP | 20% off all certifications & live training (no code), 50% off first Academy payment, up to $1,000 off cert bundles (ended Dec 1, 2025) | — |
 | **[TryHackMe](https://tryhackme.com/)** | SAL1, PT1 | 40% off annual subscription with code BLACKFRIDAY40 (ended Nov 28, 2025) | — |

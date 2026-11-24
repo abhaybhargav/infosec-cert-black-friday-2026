@@ -20,15 +20,15 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**28 live** · **1 upcoming** · **16 not announced yet** · 0 expired — _statuses auto-refreshed Nov 24, 2026_
+**29 live** · **1 upcoming** · **15 not announced yet** · 0 expired — _statuses auto-refreshed Nov 24, 2026_
 
 ### ⏰ Ending next
 
 - **[Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/)** · 15% off every cert (e.g. CDP $899 → $764.15), up to $600 off bundles · ends Nov 30, 2026
 - **[Modern Security](https://www.modernsecurity.io/courses/ai-security-certification)** · 20% off — code `msec-bf20` · ends Nov 30, 2026
 - **[SecurityPaths Academy](https://academy.securitypaths.com/courses)** · 25% off — code `blackfriday26` · ends Nov 30, 2026
+- **[TCM Security](https://tcm-sec.com/black-friday-deals/)** · 20% off certs, learning paths & live training · 50% off first Academy payment · ends Nov 30, 2026
 - **[TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/)** · 40% off — code `BF2026` · ends Nov 30, 2026
-- **[Blue Cape Security](https://bluecapesecurity.com/training-tracks/)** · $700 off — $2,197 → $1,497 · ends Nov 30, 2026
 
 ## 🎓 Certifications & Exam Vouchers
 
@@ -43,6 +43,7 @@
 | ✅ Live | **[Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/)** | All certifications + 2/3-cert bundles (DevSecOps, AI/MCP security, cloud-native, API, threat modelling, supply chain)<br><sub>CDP, CDE, CCSE, CCNSE, CAISP, CMCPSE, CAASE, CTMP, CASP, CSSE, CSC</sub><br><sub>ℹ️ Auto-applied. Ends Nov 30, midnight EST. Buy now and start the course whenever you want.</sub> | 15% off every cert (e.g. CDP $899 → $764.15), up to $600 off bundles | _auto_ | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[RedTeamLeaders](https://courses.redteamleaders.com/catalog)** | Hacking labs and certifications<br><sub>ℹ️ Prices in BRL (R$). End date not published (community lists say Nov 30).</sub> | 50% off | `BLACKFRIDAY50` | — | ✔️ vendor |
 | ✅ Live | **[SecurityPaths Academy](https://academy.securitypaths.com/courses)** | Certified WiFiChallenge Professional (Wi-Fi pentesting) and Certified Recon Professional (recon) courses with exam<br><sub>CWP, CRP</sub><br><sub>ℹ️ Formerly WiFiChallenge Academy. Code auto-applied at checkout. Submitted by a course instructor.</sub> | 25% off | `blackfriday26` | Nov 30, 2026 | ✔️ vendor |
+| ✅ Live | **[TCM Security](https://tcm-sec.com/black-friday-deals/)** | All 13 certifications, learning paths (3 stacking certs + extra courses), instructor-led live training and Academy memberships<br><sub>PJPT, PNPT, PORP, PWPA, PWPP, PWPE, PAPA, PHDA, PSAA, PSAP, PMPA, PIPA, PMRP</sub><br><sub>ℹ️ Auto-applied. Ends Nov 30, 11:59 PM ET. Academy discount is first payment only; renewals bill at regular price. Learning paths include a monthly mentorship group. Can't be combined with other offers. Submitted by the vendor.</sub> | 20% off certs, learning paths & live training · 50% off first Academy payment | _auto_ | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[The SecOps Group (PentestingExams)](https://pentestingexams.com/offer)** | All pentesting certification exams<br><sub>CAPen, CNPen, C-APIPen, CAPenX, CRTeamerX, C-ADPenX, CCPenX-AWS</sub><br><sub>ℹ️ End date not published.</sub> | 90% off — $330 exams → $33, $528 exams → $53 | `BF-90` | — | ✔️ vendor |
 | ✅ Live | **[VantagePoint](https://vantagepoint.enciphers.com/)** | All hacking labs and certifications<br><sub>ℹ️ No code needed. Vendor doesn't publish an end date (blogs report Nov 30 or Dec 15).</sub> | 70% off | _auto_ | — | ✔️ vendor |
 | ⏳ Starts Nov 27 | **[White Knight Labs](https://training.whiteknightlabs.com/)** | Certification courses, individual Academy classes, 6- and 12-month Academy passes<br><sub>ARTOC, ODPC, OAOTC, ELPT</sub><br><sub>ℹ️ Month-to-month Academy not included. Vendor banner also promises deeper discounts on course bundles and live-training upgrades.</sub> | 50% off | `WKLBLACKFRIDAY26` | Dec 18, 2026 | ✔️ vendor |
@@ -93,7 +94,6 @@ These vendors usually run a Black Friday promo but haven't announced 2026 terms.
 | **[LetsDefend](https://app.letsdefend.io/pricing)** | — | 50% off annual plans with code BLCKFRDY, extra 50% for .edu emails (ended Dec 2, 2025) | — |
 | **[SANS / GIAC](https://www.sans.org/specials/)** | GSEC, GCIH, GPEN, GCFA | — | SANS rarely runs Black Friday sales. Its Specials page lists region-specific EarlyBird promo codes for 4–6 day courses paid 30+ days ahead. GIAC's own 30% deal on select products is listed under Certifications. |
 | **[SEKTOR7](https://institute.sektor7.net/)** | — | 25% off red team courses (code BF25) | — |
-| **[TCM Security](https://certifications.tcm-sec.com/)** | PNPT, PJPT, PMPA, PSAA, PWPA, PMRP | 20% off all certifications & live training (no code), 50% off first Academy payment, up to $1,000 off cert bundles (ended Dec 1, 2025) | — |
 | **[TryHackMe](https://tryhackme.com/)** | SAL1, PT1 | 40% off annual subscription with code BLACKFRIDAY40 (ended Nov 28, 2025) | — |
 | **[Zero-Point Security](https://www.zeropointsecurity.co.uk/)** | CRTO, CRTL | — | — |
 

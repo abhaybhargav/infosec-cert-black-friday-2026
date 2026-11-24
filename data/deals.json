@@ -273,6 +273,22 @@
     "status": "✅ Live"
   },
   {
+    "vendor": "Zero-Point Security",
+    "category": "certification",
+    "offer": "Get up to 40% off.",
+    "certs": [
+      "CRTO",
+      "CRTL"
+    ],
+    "discount": "30% - 40% off",
+    "code": "auto",
+    "ends": "2026-12-07",
+    "url": "https://www.zeropointsecurity.co.uk/courses",
+    "source": "vendor",
+    "last_checked": "2026-11-24",
+    "status": "✅ Live"
+  },
+  {
     "vendor": "AppSec.training",
     "category": "training",
     "offer": "Application security, DevSecOps and secure SDLC training",
@@ -567,21 +583,6 @@
     ],
     "discount": "TBA",
     "url": "https://www.comptia.org/en-us/certifications/",
-    "source": "third-party",
-    "expected": true,
-    "last_checked": "2026-11-16",
-    "status": "👀 Not announced"
-  },
-  {
-    "vendor": "Zero-Point Security",
-    "category": "certification",
-    "offer": "Red Team Ops courses + exams",
-    "certs": [
-      "CRTO",
-      "CRTL"
-    ],
-    "discount": "TBA",
-    "url": "https://www.zeropointsecurity.co.uk/",
     "source": "third-party",
     "expected": true,
     "last_checked": "2026-11-16",

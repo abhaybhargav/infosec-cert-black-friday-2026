@@ -28,7 +28,7 @@
 
 | Vendor | Deal | Code | Ends | Status |
 |---|---|---|---|---|
-| **[GenAI Security Lab](https://genaisecuritylab.com/pricing)**<br><sub>GSCP, GSCE</sub> | Launch price — GSCP $249 → $199, GSCE $499 → $399 · 4-Month Pass $116 → $99<br><sub>⭐ Fresh AI/LLM security certs at launch price until Dec 31. Annual members get an extra 25% off certs (GSCP $149.25, GSCE $299.25).</sub> | _auto_ | Dec 31, 2026 | ✅ Live |
+| <a href="https://genaisecuritylab.com/pricing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/genai-security-lab-dark.png"><img src="assets/logos/genai-security-lab.png" alt="GenAI Security Lab" width="140"></picture></a><br>**[GenAI Security Lab](https://genaisecuritylab.com/pricing)** | 40% off the 4-Month Pass and the first year of the yearly plan<br><sub>⭐ Annual members get an extra 25% off certs (GSCP $149.25, GSCE $299.25).</sub> | _auto_ | Nov 30, 2026 | ✅ Live |
 
 ### ⏰ Ending next
 
@@ -44,7 +44,6 @@
 |---|---|---|---|---|---|---|
 | ✅ Live | **[CloudBreach](https://cloudbreach.io/blackfriday)** | Advanced offensive Azure & AWS Security Trainings and Certifications<br><sub>OASP, OAWSP, OASE</sub> | 30% off | `BlackFriday26` | Dec 07, 2026 | ✔️ vendor |
 | ✅ Live | **[CyberWarFare Labs](https://cyberwarfare.live/bundles)** | 40+ red/blue/cloud/AI-security certification courses + themed bundles<br><sub>CRTA, AI-RTA, MCRTA, CRTS v2, CARTS, AzRTS, GCRTS, CCDA, CTIA</sub><br><sub>ℹ️ No code needed for bundles/courses. Extra 10% off carts ≥ $99 and 20% off ≥ $149 (code required). Premium Membership $1,999 → $1,499, All Access $1,799 → $999 (code given at checkout). End date not published.</sub> | Up to 91% off — most courses $9, cloud red team $49, bundles $29–$149 | _auto_ | — | ✔️ vendor |
-| ✅ Live | **[GenAI Security Lab](https://genaisecuritylab.com/pricing)** | GenAI security certifications (exam + bundled lab access) and 200+ hands-on labs on the OWASP LLM, Agentic & MCP Top 10s<br><sub>GSCP, GSCE</sub><br><sub>ℹ️ Launch pricing, not a Black Friday-branded sale. No code needed. GSCP includes 1 month of labs, GSCE 3 months; one free retake each. Students (.edu / .ac.*) get 40% off (yearly $136.80, 4-Month Pass $59.40, GSCP $119.40, GSCE $239.40). Discounts don't stack: you get the larger one. 7-day money-back guarantee.</sub> | Launch price — GSCP $249 → $199, GSCE $499 → $399 · 4-Month Pass $116 → $99 | _auto_ | Dec 31, 2026 | ✔️ vendor |
 | ✅ Live | **[GIAC](https://www.giac.org/#specials)** | Applied Knowledge certifications, certification attempt extensions, practice exams and demo questions<br><sub>ℹ️ Announced in the GIAC newsletter and on giac.org. Buy from your GIAC account and enter the code at checkout; it can be used multiple times. Not valid on prior purchases or voucher purchases.</sub> | 30% off | `30Cyber26` | Dec 01, 2026 | ✔️ vendor |
 | ✅ Live | **[HackTricks Training](https://hacktricks-training.com/bundles/)** | Cloud red team course bundles (AWS / GCP / Azure)<br><sub>ARTE, ARTA, GRTE, GRTA, AzRTE, AzRTA</sub><br><sub>ℹ️ Prices in EUR. End date not published. Community lists also report 20% off single courses and 15% off labs & exams — not shown on the vendor site.</sub> | Extra 10% off bundles on top of the 25% bundle discount (e.g. €4,396 → €2,857) | _auto_ | — | ✔️ vendor |
 | ✅ Live | **[Modern Security](https://www.modernsecurity.io/courses/ai-security-certification)** | AI Security Certification<br><sub>ℹ️ Hands-on AI Security training from trainers who presented at Northsec, Defcon and Blackhat. Code msec-bf20 at checkout; offer ends Nov 30, 2026.</sub> | 20% off | `msec-bf20` | Nov 30, 2026 | ✔️ vendor |
@@ -85,6 +84,7 @@
 | Status | Vendor | Offer | Discount | Code | Ends | Verified |
 |---|---|---|---|---|---|---|
 | ✅ Live | **[CyberWarFare Labs](https://cyberwarfare.live/cwl-cyber-infinity)** | CWL Cyber Infinity — yearly access (incl. CRTA & AI-RTA) or monthly access<br><sub>CRTA, AI-RTA</sub><br><sub>ℹ️ INFINITY49 = yearly, INFINITY5 = monthly. End date not published.</sub> | Yearly $99 → $49 · Monthly $9 → $5 | `INFINITY49 / INFINITY5` | — | ✔️ vendor |
+| ✅ Live | **[GenAI Security Lab](https://genaisecuritylab.com/pricing)** | 200+ hands-on AI security labs against deliberately vulnerable LLM, RAG, agent and MCP apps<br><sub>ℹ️ Auto-applied, ends Nov 30. Discounts don't stack: you get the larger one. 7-day money-back guarantee.</sub> | 40% off the 4-Month Pass and the first year of the yearly plan | _auto_ | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[LabEx](https://labex.io/pricing)** | LabEx Pro (Linux, cybersecurity, DevOps hands-on labs)<br><sub>ℹ️ 2026BF30 = 1-year plan, 2026BF50 = 2-year plan. End date not published (community lists say Dec 7).</sub> | Pro 1 yr $99 → $69.90 (30% off) · Pro 2 yr $199 → $99.90 (50% off) | `2026BF30 / 2026BF50` | — | ✔️ vendor |
 
 ## 👀 Watchlist — not announced yet

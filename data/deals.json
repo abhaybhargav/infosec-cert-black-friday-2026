@@ -464,6 +464,18 @@
     "status": "✅ Live"
   },
   {
+    "vendor": "Red Team LLC (redteam.vip)",
+    "category": "training",
+    "offer": "Early-access pricing on 10 full-spectrum red team courses (physical entry, RFID & access control, social engineering, recon, reporting)",
+    "discount": "$99 per course (full price $199–$399) · all 10 courses $799",
+    "code": "",
+    "url": "https://redteam.vip/courses/",
+    "source": "vendor",
+    "notes": "Standing early-access price, not a Black Friday sale. Early buyers get every future video for their courses at no extra cost. Legal, Ethical & Regulatory Foundations goes from $99 to $199 on Dec 1; other courses move to full price as their videos are finished. Submitted by the course author.",
+    "last_checked": "2026-11-24",
+    "status": "✅ Live"
+  },
+  {
     "vendor": "GenAI Security Lab",
     "category": "labs",
     "offer": "Hands-on AI security labs (prompt injection, RAG, agents, MCP) — yearly plan and 4-Month Pass",
